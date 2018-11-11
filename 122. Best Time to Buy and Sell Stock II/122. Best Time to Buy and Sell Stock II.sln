@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "122. Best Time to Buy and Sell Stock II", "122. Best Time to Buy and Sell Stock II\122. Best Time to Buy and Sell Stock II.vcxproj", "{9556F89F-B86B-4EB2-890F-8C8DECF5E815}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9556F89F-B86B-4EB2-890F-8C8DECF5E815}.Debug|x64.ActiveCfg = Debug|x64
+		{9556F89F-B86B-4EB2-890F-8C8DECF5E815}.Debug|x64.Build.0 = Debug|x64
+		{9556F89F-B86B-4EB2-890F-8C8DECF5E815}.Debug|x86.ActiveCfg = Debug|Win32
+		{9556F89F-B86B-4EB2-890F-8C8DECF5E815}.Debug|x86.Build.0 = Debug|Win32
+		{9556F89F-B86B-4EB2-890F-8C8DECF5E815}.Release|x64.ActiveCfg = Release|x64
+		{9556F89F-B86B-4EB2-890F-8C8DECF5E815}.Release|x64.Build.0 = Release|x64
+		{9556F89F-B86B-4EB2-890F-8C8DECF5E815}.Release|x86.ActiveCfg = Release|Win32
+		{9556F89F-B86B-4EB2-890F-8C8DECF5E815}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80F16C89-4E70-48D6-88D5-64BE74845880}
+	EndGlobalSection
+EndGlobal

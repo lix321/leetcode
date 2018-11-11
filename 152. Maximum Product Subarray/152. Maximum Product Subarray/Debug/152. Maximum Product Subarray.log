@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  152. Maximum Product Subarray.cpp
+c:\users\lix\source\repos\152. maximum product subarray\152. maximum product subarray\152. maximum product subarray.cpp(23): error C4700: uninitialized local variable 'maxVal' used
+c:\users\lix\source\repos\152. maximum product subarray\152. maximum product subarray\152. maximum product subarray.cpp(27): error C4700: uninitialized local variable 'minVal' used

@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  69. Sqrt(x).cpp
+c:\users\lix\source\repos\69. sqrt(x)\69. sqrt(x)\69. sqrt(x).cpp(13): warning C4554: '^': check operator precedence for possible error; use parentheses to clarify precedence
+  69. Sqrt(x).vcxproj -> C:\Users\Lix\source\repos\69. Sqrt(x)\Debug\69. Sqrt(x).exe

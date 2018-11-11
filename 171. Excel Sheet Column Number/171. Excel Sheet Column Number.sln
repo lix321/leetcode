@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "171. Excel Sheet Column Number", "171. Excel Sheet Column Number\171. Excel Sheet Column Number.vcxproj", "{FCC818F0-72D8-47F0-99D2-3B830B03B802}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCC818F0-72D8-47F0-99D2-3B830B03B802}.Debug|x64.ActiveCfg = Debug|x64
+		{FCC818F0-72D8-47F0-99D2-3B830B03B802}.Debug|x64.Build.0 = Debug|x64
+		{FCC818F0-72D8-47F0-99D2-3B830B03B802}.Debug|x86.ActiveCfg = Debug|Win32
+		{FCC818F0-72D8-47F0-99D2-3B830B03B802}.Debug|x86.Build.0 = Debug|Win32
+		{FCC818F0-72D8-47F0-99D2-3B830B03B802}.Release|x64.ActiveCfg = Release|x64
+		{FCC818F0-72D8-47F0-99D2-3B830B03B802}.Release|x64.Build.0 = Release|x64
+		{FCC818F0-72D8-47F0-99D2-3B830B03B802}.Release|x86.ActiveCfg = Release|Win32
+		{FCC818F0-72D8-47F0-99D2-3B830B03B802}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19C9DAC4-17AD-4C61-8CDA-5870CAC884F8}
+	EndGlobalSection
+EndGlobal
